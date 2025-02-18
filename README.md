@@ -1,5 +1,5 @@
 #FindAll
-![image](https://github.com/user-attachments/assets/72bb5803-1d04-465a-8d6a-dd0f9b36824d)
+![image](https://github.com/user-attachments/assets/72a2e0f8-39a9-4736-8bb1-f064564989b8)
 
 #FindById
-![image](https://github.com/user-attachments/assets/7e2d4d23-e438-4c8a-98d0-1def3f7aeca2)
+![image](https://github.com/user-attachments/assets/bb6fca03-e08d-497f-9a40-74846371c48d)
